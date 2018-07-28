@@ -1,0 +1,14 @@
+c:\users\skill\onedrive\documents\visual studio 2015\Projects\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.exe.config
+C:\Users\skill\onedrive\documents\visual studio 2015\Projects\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.exe
+C:\Users\skill\onedrive\documents\visual studio 2015\Projects\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.pdb
+C:\Users\skill\onedrive\documents\visual studio 2015\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\MainWindow.g.cs
+C:\Users\skill\onedrive\documents\visual studio 2015\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\App.g.cs
+C:\Users\skill\onedrive\documents\visual studio 2015\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans_MarkupCompile.cache
+C:\Users\skill\onedrive\documents\visual studio 2015\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans_MarkupCompile.lref
+C:\Users\skill\onedrive\documents\visual studio 2015\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\MainWindow.baml
+C:\Users\skill\onedrive\documents\visual studio 2015\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.g.resources
+C:\Users\skill\onedrive\documents\visual studio 2015\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.Properties.Resources.resources
+C:\Users\skill\onedrive\documents\visual studio 2015\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.csproj.GenerateResource.Cache
+C:\Users\skill\onedrive\documents\visual studio 2015\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.exe
+C:\Users\skill\onedrive\documents\visual studio 2015\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.pdb
+C:\Users\skill\onedrive\documents\visual studio 2015\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.csprojResolveAssemblyReference.cache
