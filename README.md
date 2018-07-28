@@ -3,6 +3,7 @@
 
 # Install
 git clone https://github.com/skilltron/Dr_Who_Video_Game
+
 Run the bin file in the debug folder to play the game
 
 # Usage
